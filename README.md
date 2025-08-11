@@ -21,8 +21,11 @@ The dataset is **non-linearly separable**, making it a great example to understa
 
 
 ├── 1 layer neural network implementation.py # Main implementation
+
 ├── planar_utils.py # Helper functions (dataset loading, plotting)
+
 ├── testCases_v2.py # Predefined test cases
+
 ├── README.md # Project description (this file)
 
 
@@ -49,7 +52,7 @@ Each point belongs to one of two classes, represented by:
 
 ## 🚀 How to Run
 
-just run the 1 layer neural network implementation.py file to see the results for different hidden layers and their accuracy.
+just run the "1 layer neural network implementation.py" file to see the results for different hidden layers and their accuracy.
 
 ---
 📈 Example Output
